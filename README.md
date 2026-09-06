@@ -1,4 +1,3 @@
-````markdown
 # Python Flask Car Routes Lab
 
 ## Description
@@ -184,5 +183,3 @@ This lab provides practice building routes with Flask and using dynamic URL para
 ## Author
 
 Created by Matthew Swanberg as part of  Course 8 Module 1 (Introduction to Flask - Car Routes)
-
-```
