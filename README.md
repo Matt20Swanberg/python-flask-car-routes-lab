@@ -175,8 +175,6 @@ Flatiron Beedle is in our fleet!
 
 ## Screenshot
 
-Add a screenshot of the running Flask application below:
-
 ![Passing Test Suite](./screenshots/screenshot.png)
 
 ## Conclusion
